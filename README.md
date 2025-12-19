@@ -1,3 +1,8 @@
+**CasADi Optimization Toolbox (MATLAB)**
+-----
+This repository contains a small CasADi-based MATLAB toolbox for solving optimization problems, mainly focusing on unconstrained and constrained minimization as well as Mean Squared Error (MSE) optimization for linear regression.
+The codes are written in MATLAB and use CasADi for symbolic modeling and numerical optimization.
+
 **MSE_optimization.m**
 <br>
 MATLAB code for linear regression path estimation using Mean Squared Error (MSE) minimization.
